@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gaws</string>
+    <string name="register">Register</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="surename">sureName</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
